@@ -1,0 +1,161 @@
+{
+  "404": {
+    "page-not-found": "",
+    "take-me-home": ""
+  },
+  "new-recipe": {
+    "from-url": "",
+    "recipe-url": "",
+    "error-message": "",
+    "bulk-add": "",
+    "paste-in-your-recipe-data-each-line-will-be-treated-as-an-item-in-a-list": ""
+  },
+  "general": {
+    "upload": "",
+    "crowdin_test": "",
+    "submit": "",
+    "name": "",
+    "settings": "",
+    "close": "",
+    "save": "",
+    "image-file": "",
+    "update": "",
+    "edit": "",
+    "delete": "",
+    "select": "",
+    "random": "",
+    "new": "",
+    "create": "",
+    "cancel": "",
+    "ok": "",
+    "enabled": "",
+    "download": "",
+    "import": "",
+    "options": "",
+    "templates": "",
+    "recipes": "",
+    "themes": "",
+    "confirm": ""
+  },
+  "login": {
+    "stay-logged-in": "",
+    "email": "",
+    "password": "",
+    "sign-in": "",
+    "sign-up": ""
+  },
+  "meal-plan": {
+    "shopping-list": "",
+    "dinner-this-week": "",
+    "meal-planner": "",
+    "dinner-today": "",
+    "planner": "",
+    "edit-meal-plan": "",
+    "meal-plans": "",
+    "create-a-new-meal-plan": "",
+    "start-date": "",
+    "end-date": ""
+  },
+  "recipe": {
+    "description": "",
+    "ingredients": "",
+    "categories": "",
+    "tags": "",
+    "instructions": "",
+    "step-index": "",
+    "recipe-name": "",
+    "servings": "",
+    "ingredient": "",
+    "notes": "",
+    "note": "",
+    "original-url": "",
+    "view-recipe": "",
+    "title": "",
+    "total-time": "",
+    "prep-time": "",
+    "perform-time": "",
+    "api-extras": "",
+    "object-key": "",
+    "object-value": "",
+    "new-key-name": "",
+    "add-key": "",
+    "key-name-required": "",
+    "no-white-space-allowed": "",
+    "delete-recipe": "",
+    "delete-confirmation": ""
+  },
+  "search": {
+    "search-mealie": ""
+  },
+  "settings": {
+    "general-settings": "",
+    "local-api": "",
+    "language": "",
+    "add-a-new-theme": "",
+    "set-new-time": "",
+    "current": "",
+    "latest": "",
+    "explore-the-docs": "",
+    "contribute": "",
+    "backup-and-exports": "",
+    "backup-info": "",
+    "available-backups": "",
+    "theme": {
+      "theme-name": "",
+      "theme-settings": "",
+      "select-a-theme-from-the-dropdown-or-create-a-new-theme-note-that-the-default-theme-will-be-served-to-all-users-who-have-not-set-a-theme-preference": "",
+      "dark-mode": "",
+      "theme-is-required": "",
+      "primary": "",
+      "secondary": "",
+      "accent": "",
+      "success": "",
+      "info": "",
+      "warning": "",
+      "error": "",
+      "default-to-system": "",
+      "light": "",
+      "dark": "",
+      "theme": "",
+      "saved-color-theme": "",
+      "delete-theme": "",
+      "are-you-sure-you-want-to-delete-this-theme": "",
+      "choose-how-mealie-looks-to-you-set-your-theme-preference-to-follow-your-system-settings-or-choose-to-use-the-light-or-dark-theme": "",
+      "theme-name-is-required": ""
+    },
+    "webhooks": {
+      "meal-planner-webhooks": "",
+      "the-urls-listed-below-will-recieve-webhooks-containing-the-recipe-data-for-the-meal-plan-on-its-scheduled-day-currently-webhooks-will-execute-at": "",
+      "test-webhooks": "",
+      "webhook-url": ""
+    },
+    "new-version-available": "",
+    "backup": {
+      "import-recipes": "",
+      "import-themes": "",
+      "import-settings": "",
+      "create-heading": "",
+      "backup-tag": "",
+      "full-backup": "",
+      "partial-backup": "",
+      "backup-restore-report": "",
+      "successfully-imported": "",
+      "failed-imports": ""
+    }
+  },
+  "migration": {
+    "recipe-migration": "",
+    "failed-imports": "",
+    "migration-report": "",
+    "successful-imports": "",
+    "no-migration-data-available": "",
+    "nextcloud": {
+      "title": "",
+      "description": ""
+    },
+    "chowdown": {
+      "title": "",
+      "description": ""
+    }
+  }
+}
