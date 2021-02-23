@@ -12,6 +12,7 @@
   },
   "general": {
     "upload": "Téléverser",
+    "crowdin_test": "",
     "submit": "Soumettre",
     "name": "Nom",
     "settings": "Options",
@@ -30,7 +31,7 @@
     "enabled": "Activé",
     "download": "Télécharger",
     "import": "Importer",
-    "options": "Options",
+    "options": "Paramètres",
     "templates": "Modèles",
     "recipes": "Recettes",
     "themes": "Thèmes",
@@ -38,15 +39,15 @@
   },
   "login": {
     "stay-logged-in": "Rester connecté(e) ?",
-    "email": "Email",
+    "email": "E-mail",
     "password": "Mot de passe",
     "sign-in": "Se connecter",
     "sign-up": "S'inscrire"
   },
   "meal-plan": {
-    "shopping-list": "Shopping List",
+    "shopping-list": "Liste de courses",
     "dinner-this-week": "Repas cette semaine",
-    "meal-planner": "Meal Planner",
+    "meal-planner": "Planificateur de repas",
     "dinner-today": "Repas aujourd'hui",
     "planner": "Planificateur",
     "edit-meal-plan": "Éditer le plan de menu",
@@ -56,17 +57,17 @@
     "end-date": "Date de fin"
   },
   "recipe": {
-    "description": "Description",
+    "description": "",
     "ingredients": "Ingrédients",
     "categories": "Catégories",
-    "tags": "Tags",
-    "instructions": "Instructions",
+    "tags": "",
+    "instructions": "",
     "step-index": "Etape: {step}",
     "recipe-name": "Nom de la recette",
     "servings": "Portions",
     "ingredient": "Ingrédient",
-    "notes": "Notes",
-    "note": "Note",
+    "notes": "",
+    "note": "",
     "original-url": "Recette originale",
     "view-recipe": "Voir la recette",
     "title": "Titre",
@@ -153,7 +154,7 @@
       "description": "Importer des recettes depuis un livre de recettes Nextcloud existant"
     },
     "chowdown": {
-      "title": "Chowdown",
+      "title": "",
       "description": "Importer des recettes depuis Chowdown"
     }
   }
