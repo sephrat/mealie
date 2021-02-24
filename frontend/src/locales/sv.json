@@ -11,61 +11,86 @@
     "paste-in-your-recipe-data-each-line-will-be-treated-as-an-item-in-a-list": "Klistra in din receptdata, varje rad kommer att hanteras som ett listelement"
   },
   "general": {
+    "upload": "Upload",
+    "crowdin_test": "Some new string commited by a dev",
     "submit": "Skicka",
     "name": "Namn",
     "settings": "Inställningar",
-    "cancel": "Avbryt",
     "close": "Stäng",
-    "create": "Skapa",
-    "delete": "Ta bort",
-    "edit": "Redigera",
-    "enabled": "Aktiverad",
-    "image-file": "Bildfil",
-    "new": "Ny",
-    "ok": "Ok",
-    "random": "Slumpa",
     "save": "Spara",
-    "select": "Välj",
+    "image-file": "Bildfil",
     "update": "Uppdatera",
+    "edit": "Redigera",
+    "delete": "Ta bort",
+    "select": "Välj",
+    "random": "Slumpa",
+    "new": "Ny",
+    "create": "Skapa",
+    "cancel": "Avbryt",
+    "ok": "Ok",
+    "enabled": "Aktiverad",
     "download": "Ladda ner",
-    "import": "Importera"
+    "import": "Importera",
+    "options": "Options",
+    "templates": "Templates",
+    "recipes": "Recipes",
+    "themes": "Themes",
+    "confirm": "Confirm"
   },
   "login": {
+    "stay-logged-in": "Kom ihåg mig",
     "email": "E-mail",
     "password": "Lösenord",
     "sign-in": "Logga in",
-    "sign-up": "Logga ut",
-    "stay-logged-in": "Kom ihåg mig"
+    "sign-up": "Logga ut"
   },
   "meal-plan": {
+    "shopping-list": "Shopping List",
     "dinner-this-week": "Veckans middagar",
+    "meal-planner": "Meal Planner",
     "dinner-today": "Middag idag",
     "planner": "Planeringkalender",
-    "create-a-new-meal-plan": "Skapa en ny måltidsplan",
     "edit-meal-plan": "Redigera måltidsplan",
-    "end-date": "Slutdatum",
     "meal-plans": "Måltidsplaner",
-    "start-date": "Startdatum"
+    "create-a-new-meal-plan": "Skapa en ny måltidsplan",
+    "start-date": "Startdatum",
+    "end-date": "Slutdatum"
   },
   "recipe": {
     "description": "Beskrivning",
-    "categories": "Kategorier",
-    "ingredient": "Ingrediens",
     "ingredients": "Ingredienser",
+    "categories": "Kategorier",
+    "tags": "Taggar",
     "instructions": "Instruktioner",
-    "note": "Anteckning",
-    "notes": "Anteckningar",
-    "original-url": "Originalrecept",
+    "step-index": "Steg: {step}",
     "recipe-name": "Receptets namn",
     "servings": "Portioner",
-    "step-index": "Steg: {step}",
-    "tags": "Taggar",
-    "view-recipe": "Visa recept"
+    "ingredient": "Ingrediens",
+    "notes": "Anteckningar",
+    "note": "Anteckning",
+    "original-url": "Originalrecept",
+    "view-recipe": "Visa recept",
+    "title": "Title",
+    "total-time": "Total Time",
+    "prep-time": "Prep Time",
+    "perform-time": "Cook Time",
+    "api-extras": "API Extras",
+    "object-key": "Object Key",
+    "object-value": "Object Value",
+    "new-key-name": "New Key Name",
+    "add-key": "Add Key",
+    "key-name-required": "Key Name Required",
+    "no-white-space-allowed": "No White Space Allowed",
+    "delete-recipe": "Delete Recipe",
+    "delete-confirmation": "Are you sure you want to delete this recipe?"
   },
   "search": {
     "search-mealie": "Search Mealie"
   },
   "settings": {
+    "general-settings": "General Settings",
+    "local-api": "Local API",
+    "language": "Language",
     "add-a-new-theme": "Lägg till ett nytt tema",
     "set-new-time": "Välj ny tid",
     "current": "Version:",
@@ -74,7 +99,9 @@
     "contribute": "Bidra",
     "backup-and-exports": "Backups",
     "backup-info": "Säkerhetskopior exporteras i JSON-format tillsammans med de bilder som finns i systemet. I din mapp för säkerhetskopior finner du en zip-fil som innehåller alla recept i JSON samt bilder från databasen. Om du dessutom valde att exportera till markdown så hittas också de i samma zip-fil. För att importera en säkerhetskopia så måste den ligga i din backup-mapp. Automatisk säkerhetskopiering genomförs varje dag kl. 03:00.",
+    "available-backups": "Available Backups",
     "theme": {
+      "theme-name": "Theme Name",
       "theme-settings": "Temainställningar",
       "select-a-theme-from-the-dropdown-or-create-a-new-theme-note-that-the-default-theme-will-be-served-to-all-users-who-have-not-set-a-theme-preference": "Välj ett tema från menyn eller skapa ett nytt. Standardtemat kommer att användas för alla användare som inte gjort något val.",
       "dark-mode": "Mörkt läge",
@@ -86,13 +113,15 @@
       "info": "Info",
       "warning": "Varning",
       "error": "Error",
+      "default-to-system": "Default to system",
       "light": "Ljust",
       "dark": "Mörkt",
       "theme": "Tema",
       "saved-color-theme": "Sparat färgschema",
       "delete-theme": "Radera tema",
       "are-you-sure-you-want-to-delete-this-theme": "Är du säker på att du vill radera temat?",
-      "choose-how-mealie-looks-to-you-set-your-theme-preference-to-follow-your-system-settings-or-choose-to-use-the-light-or-dark-theme": "Välj hur Mealie ska se ut för dig. Låt Mealie följa dina systeminställningar, eller välj mörkt eller ljust tema."
+      "choose-how-mealie-looks-to-you-set-your-theme-preference-to-follow-your-system-settings-or-choose-to-use-the-light-or-dark-theme": "Välj hur Mealie ska se ut för dig. Låt Mealie följa dina systeminställningar, eller välj mörkt eller ljust tema.",
+      "theme-name-is-required": "Theme Name is required."
     },
     "webhooks": {
       "meal-planner-webhooks": "Webhooks för denna måltidsplan",
@@ -106,11 +135,27 @@
       "import-themes": "Importera färgscheman",
       "import-settings": "Importera recept",
       "create-heading": "Skapa en säkerhetskopia",
-      "backup-tag": "Backup tagg"
+      "backup-tag": "Backup tagg",
+      "full-backup": "Full Backup",
+      "partial-backup": "Partial Backup",
+      "backup-restore-report": "Backup Restore Report",
+      "successfully-imported": "Successfully Imported",
+      "failed-imports": "Failed Imports"
     }
   },
   "migration": {
     "recipe-migration": "Migrera recept",
-    "failed-imports": "Misslyckade importer"
+    "failed-imports": "Misslyckade importer",
+    "migration-report": "Migration Report",
+    "successful-imports": "Successful Imports",
+    "no-migration-data-available": "No Migration Data Avaiable",
+    "nextcloud": {
+      "title": "Nextcloud Cookbook",
+      "description": "Migrate data from a Nextcloud Cookbook intance"
+    },
+    "chowdown": {
+      "title": "Chowdown",
+      "description": "Migrate data from Chowdown"
+    }
   }
 }
