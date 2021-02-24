@@ -13,6 +13,7 @@
   "general": {
     "upload": "Téléverser",
     "crowdin_test": "Some new string commited by a dev",
+    "crowdin_test2": "Another string commited by a dev",
     "submit": "Soumettre",
     "name": "Nom",
     "settings": "Options",
