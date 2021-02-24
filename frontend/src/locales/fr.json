@@ -12,6 +12,7 @@
   },
   "general": {
     "upload": "Téléverser",
+    "crowdin_test": "Some new string commited by a dev",
     "submit": "Soumettre",
     "name": "Nom",
     "settings": "Options",
@@ -44,7 +45,9 @@
     "sign-up": "S'inscrire"
   },
   "meal-plan": {
+    "shopping-list": "Shopping List",
     "dinner-this-week": "Repas cette semaine",
+    "meal-planner": "Meal Planner",
     "dinner-today": "Repas aujourd'hui",
     "planner": "Planificateur",
     "edit-meal-plan": "Éditer le plan de menu",

@@ -12,6 +12,7 @@
   },
   "general": {
     "upload": "Hochladen",
+    "crowdin_test": "Some new string commited by a dev",
     "submit": "Einfügen",
     "name": "Name",
     "settings": "Einstellungen",
@@ -44,7 +45,9 @@
     "sign-up": "Registrieren"
   },
   "meal-plan": {
+    "shopping-list": "Shopping List",
     "dinner-this-week": "Essen diese Woche",
+    "meal-planner": "Meal Planner",
     "dinner-today": "Heutiges Essen",
     "planner": "Planer",
     "edit-meal-plan": "Essensplan bearbeiten",
