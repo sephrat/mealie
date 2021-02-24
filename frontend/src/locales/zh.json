@@ -13,6 +13,7 @@
   "general": {
     "upload": "Upload",
     "crowdin_test": "Some new string commited by a dev",
+    "crowdin_test2": "Another string commited by a dev",
     "submit": "Submit",
     "name": "Name",
     "settings": "Settings",
