@@ -233,7 +233,7 @@
   },
   "migration": {
     "recipe-migration": "Migração da Receita",
-    "failed-imports": "Importações Falhadas",
+    "failed-imports": "Importações falhadas",
     "migration-report": "Análise das Migrações",
     "successful-imports": "Importações Bem sucedidas",
     "no-migration-data-available": "Não há dados de migração disponíveis",
