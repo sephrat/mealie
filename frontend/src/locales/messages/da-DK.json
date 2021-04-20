@@ -233,7 +233,7 @@
   },
   "migration": {
     "recipe-migration": "Migrering af opskrifter",
-    "failed-imports": "Failed Imports",
+    "failed-imports": "Mislykket import",
     "migration-report": "Migration Report",
     "successful-imports": "Successful Imports",
     "no-migration-data-available": "No Migration Data Avaiable",
