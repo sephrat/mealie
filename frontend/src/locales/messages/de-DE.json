@@ -233,7 +233,7 @@
   },
   "migration": {
     "recipe-migration": "Rezepte übertragen",
-    "failed-imports": "Import fehlgeschlagen",
+    "failed-imports": "Fehlgeschlagene Importe",
     "migration-report": "Übertragungsbericht",
     "successful-imports": "Erfolgreiche Importe",
     "no-migration-data-available": "Keine Übertragungsdaten verfügbar",
