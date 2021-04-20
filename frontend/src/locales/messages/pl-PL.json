@@ -233,7 +233,7 @@
   },
   "migration": {
     "recipe-migration": "Przenoszenie przepisów",
-    "failed-imports": "Importy udane",
+    "failed-imports": "Importy nieudane",
     "migration-report": "Raport przenosin",
     "successful-imports": "Importy nieudane",
     "no-migration-data-available": "Brak danych do przeniesienia",
