@@ -233,7 +233,7 @@
   },
   "migration": {
     "recipe-migration": "Migrera recept",
-    "failed-imports": "Failed Imports",
+    "failed-imports": "Misslyckade importer",
     "migration-report": "Migration Report",
     "successful-imports": "Successful Imports",
     "no-migration-data-available": "No Migration Data Avaiable",
